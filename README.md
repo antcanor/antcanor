@@ -1,67 +1,55 @@
-## Hi there 👋
-
-<!--
-**antcanor/antcanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Antonio Cano</h1>
-<h3 align="center">Software Engineer Student | Musician</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/antonio-cano-ruiz-64a642234/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
-</p>
-
-
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Antonio Cano</h1>
+<h3 align="center">🎓 Software Engineering Student | 🎺 Musician | 💻 Full-Stack Developer in Progress</h3>
 
 <p align="center">
-  <em>
-    This is me, Antonio Cano, a <b>sophomore</b> student of Computer Science at <a href="https://www.um.es/"> <b>Universidad de Murcia</b></a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <br>
+  <a href="https://www.linkedin.com/in/antonio-cano-ruiz-64a642234/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
-***Talking about Personal Stuffs...***
+---
 
-✔ 🔭 I’m currently working on **Personal Projects** (they are secrets)<br>
-✔ 🌱 I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ 💬 Ask me about anything, I am happy to help<br>
-<br><br>
- 
+### 👨‍💻 About Me
 
-***Languages & Tools I Know...***
+I'm Antonio, a second-year Computer Science student at the [Universidad de Murcia](https://www.um.es/), passionate about technology and constant self-improvement.  
+I'm currently focused on:
 
-  <p align="left">
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg"> 
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg"> 
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/css.svg"> 
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg">
-  <img height="50" src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/java.svg">
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/javascript.svg">
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ubuntu.svg"> 
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/symfony.svg">
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/mysql.svg">
-  <img height="50" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg">
-  <hr>
-  <p align="center">
- <i><b>GitHub Stats</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antcanor&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
+- 🚀 Developing personal and academic projects (some are secret... for now)
+- 🌱 Learning **React.js**, **Node.js** and advancing in **Full-Stack Development**
+- 💬 Open to collaboration, questions, and challenges!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antcanor&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" alt="Angular" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/symfony.svg" alt="Symfony" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" />
+  <img height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" alt="Ubuntu" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antcanor&layout=compact&theme=default" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antcanor&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🎵 Fun Fact
+
+I’m also a **euphonium player**, and music has always been a big part of my life!
 
 
