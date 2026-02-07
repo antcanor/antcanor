@@ -45,6 +45,7 @@ I'm currently focused on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=antcanor&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antcanor)](https://github.com/antcanor/github-readme-stats)
 
 ---
 
