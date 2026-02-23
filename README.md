@@ -37,18 +37,6 @@ I'm currently focused on:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antcanor&layout=compact&theme=default" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antcanor&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-
----
-
 ### 🎵 Fun Fact
 
 I’m also a **euphonium player**, and music has always been a big part of my life!
