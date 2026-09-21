@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Antonio, a second-year Computer Science student at the [Universidad de Murcia](https://www.um.es/), passionate about technology and constant self-improvement.  
+I'm Antonio, a third-year Computer Science student at the [Universidad de Murcia](https://www.um.es/), passionate about technology and constant self-improvement.  
 I'm currently focused on:
 
 - 🚀 Developing personal and academic projects (some are secret... for now)
