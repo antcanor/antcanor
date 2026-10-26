@@ -31,32 +31,39 @@ I'm Antonio, a third-year Computer Science student at the [Universidad de Murcia
 
 ---
 
+<h3 align="center">🛠️ Tech Stack</h3>
 
-### 🛠️ Tech Stack
+<p align="center">
+  <strong>Core Languages</strong><br>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" alt="TypeScript" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" />
+</p>
 
-**Core Languages:**  
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" alt="TypeScript" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" />
+<p align="center">
+  <strong>Frontend</strong><br>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" alt="Angular" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="Tailwind CSS" />
+</p>
 
-**Frontend:**  
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" alt="Angular" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="Tailwind CSS" />
+<p align="center">
+  <strong>Backend & Databases</strong><br>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.js" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/symfony.svg" alt="Symfony" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgreSQL" />
+</p>
 
-**Backend & Databases:**  
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.js" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/symfony.svg" alt="Symfony" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgreSQL" />
-
-**Tools & Infrastructure:**  
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/githubactions.svg" alt="GitHub Actions" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" />
-<img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" alt="Ubuntu" />
+<p align="center">
+  <strong>Tools & Infrastructure</strong><br>
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/githubactions.svg" alt="GitHub Actions" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" />
+  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" alt="Ubuntu" />
+</p>
 
 ---
 
