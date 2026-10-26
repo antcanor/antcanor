@@ -1,73 +1,73 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Antonio Cano</h1>
-<h3 align="center">🎓 Computer Science Student | 💻 Full-Stack Developer | 🏃‍♂️ Distance Runner & 🎺 Musician</h3>
+<h1 align="center">Hola, soy Antonio Cano 👋</h1>
+<h3 align="center">Desarrollador orientado a backend · Estudiante de Ingeniería Informática · Corredor y músico</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antcanor/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/antcanor/"><img src="https://img.shields.io/badge/LinkedIn-antcanor-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre mí
 
-I'm Antonio, a third-year Computer Science student at the [Universidad de Murcia](https://www.um.es/). I specialize in Full-Stack web development, building everything from interactive frontends to automated CI/CD pipelines and web scraping tools.
+Soy estudiante de tercer curso de Ingeniería Informática en la [Universidad de Murcia](https://www.um.es/) y cursando también el CFGS de Desarrollo de Aplicaciones Multiplataforma. Me centro en el **desarrollo backend** (APIs, bases de datos, automatización y pipelines CI/CD), y me manejo también en **full-stack**, con frontend en Angular. 
 
-- 🚀 Currently building real-world applications and automated systems.
-- 🌱 Deepening my knowledge in **Node.js**, **TypeScript**, and **Python**.
-- 💬 Open to collaboration, open-source contributions, and new challenges!
-
----
-
-### 🚀 Featured Projects
-
-*   **Calendario Murcia Running:** [![Scraper Status](https://github.com/antcanor/Calendario-Carreras/actions/workflows/actualizar.yml/badge.svg)](https://github.com/antcanor/Calendario-Carreras/actions)
-    An automated race aggregator featuring Python web scrapers, a Turso database, and an Astro frontend. ➡️ **[Live Demo](https://carreras-murcia.vercel.app/)** | **[Repository](https://github.com/antcanor/Calendario-Carreras)**
-*   **Music Academy Management App:** A full-stack platform built with Node.js, Express, Sequelize, MySQL, and Angular to handle student enrollments, class scheduling, and SEPA receipts.
-
-### 🎓 Academic Projects
-
-*   **NanoFiles (Java):** A distributed file-sharing platform implementing a hybrid client-server and P2P architecture. Built custom text-based and binary network protocols for peer registration, directory queries, and fragmented file transfers. ➡️ **[Repository](https://github.com/antcanor/nanoFiles)**
-*   **VoltaERP:** ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  An ongoing Enterprise Resource Planning (ERP) system developed in a 5-person agile team (Scrum) for a Higher Degree in Multi-platform App Development. Built with Node.js, Express, Sequelize, PostgreSQL, and Angular. Features strict role-based access control (RBAC), atomic database transactions for sequential invoicing, and real-time inventory management. ➡️ **[Repository](https://github.com/VoltaERP/VoltaERP)**
+- 🏢 He hecho prácticas en el equipo de **Platform Engineering** de Minderest (backend, Java y MySQL).
+- 🚀 Me gusta automatizar tareas repetitivas: scrapers, pipelines y herramientas que ahorran tiempo.
+- 🔧 En mi día a día trabajo con **Node.js**, **TypeScript** y **Python**.
+- 🔎 **Busco prácticas o un primer empleo como desarrollador backend.**
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+### 🚀 Proyectos destacados
 
-<p align="center">
-  <strong>Core Languages</strong><br>
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/java.svg" alt="Java" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/c.svg" alt="C" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" alt="TypeScript" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" />
-</p>
+**[Calendario Murcia Running](https://github.com/antcanor/Calendario-Carreras)** — [![Scraper Status](https://github.com/antcanor/Calendario-Carreras/actions/workflows/actualizar.yml/badge.svg)](https://github.com/antcanor/Calendario-Carreras/actions)
+Agregador automatizado de carreras: scrapers en Python ejecutados periódicamente con GitHub Actions, datos en una base de datos Turso y frontend en Astro desplegado en Vercel. ➡️ **[Demo en vivo](https://carreras-murcia.vercel.app/)**
 
-<p align="center">
-  <strong>Frontend</strong><br>
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/angular.svg" alt="Angular" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" alt="Tailwind CSS" />
-</p>
+**App de gestión para academia de música** — Node.js, Express, Sequelize, MySQL, Angular
+Plataforma full-stack para gestionar matrículas, horarios de clases y recibos SEPA.
 
-<p align="center">
-  <strong>Backend & Databases</strong><br>
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.js" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/symfony.svg" alt="Symfony" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" alt="PostgreSQL" />
-</p>
+### 🎓 Proyectos Académicos
 
-<p align="center">
-  <strong>Tools & Infrastructure</strong><br>
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/githubactions.svg" alt="GitHub Actions" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" />
-  <img height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ubuntu.svg" alt="Ubuntu" />
-</p>
+**[VoltaERP](https://github.com/VoltaERP/VoltaERP)** — ![Estado: En desarrollo](https://img.shields.io/badge/Estado-En%20desarrollo-yellow)
+Sistema ERP desarrollado por un equipo de 5 personas con Scrum. Node.js, Express, Sequelize, PostgreSQL y Angular. Control de acceso por roles (RBAC), transacciones atómicas para facturación secuencial y gestión de inventario en tiempo real.
+
+**[NanoFiles](https://github.com/antcanor/nanoFiles)** — Java
+Plataforma distribuida de compartición de archivos con arquitectura híbrida cliente-servidor y P2P. Protocolos de red propios, de texto y binarios, para el registro de peers, consultas de directorio y transferencia fragmentada de archivos.
 
 ---
 
-### 🎵 Fun Facts
+### 🛠️ Tecnologías
 
-When I'm not coding, you can find me playing the euphonium and trombone, or training at the athletics track for my next race!
+**Lenguajes**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+
+**Bases de datos**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-4FF8D2?style=flat&logo=turso&logoColor=black)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Herramientas e infraestructura**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+---
+
+### 🎵 Curiosidades
+
+He sido profesor de música durante 2 años, y cuando no estoy programando me encontrarás tocando el bombardino y el trombón o entrenando en la pista de atletismo para mi próxima carrera.
