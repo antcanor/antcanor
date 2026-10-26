@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Computer Science Student | 💻 Full-Stack Developer | 🏃‍♂️ Distance Runner & 🎺 Musician</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-cano-ruiz-64a642234/" target="_blank">
+  <a href="https://www.linkedin.com/in/antcanor/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
 </p>
