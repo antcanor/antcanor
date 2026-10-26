@@ -28,6 +28,7 @@ I'm Antonio, a third-year Computer Science student at the [Universidad de Murcia
 ### 🎓 Academic Projects
 
 *   **NanoFiles (Java):** A distributed file-sharing platform implementing a hybrid client-server and P2P architecture. Built custom text-based and binary network protocols for peer registration, directory queries, and fragmented file transfers. ➡️ **[Repository](https://github.com/antcanor/nanoFiles)**
+*   **VoltaERP:** ![Status: In Progress](https://img.shields.io/badge/Status-In%20Progress-yellow)  An ongoing Enterprise Resource Planning (ERP) system developed in a 5-person agile team (Scrum) for a Higher Degree in Multi-platform App Development. Built with Node.js, Express, Sequelize, PostgreSQL, and Angular. Features strict role-based access control (RBAC), atomic database transactions for sequential invoicing, and real-time inventory management. ➡️ **[Repository](https://github.com/VoltaERP/VoltaERP)**
 
 ---
 
